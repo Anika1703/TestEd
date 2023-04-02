@@ -30,7 +30,7 @@ Our tech stack for TestEd included:
 - OpenAI's API for mock test and mindmap generation
 - Figma for prototyping the Phase 2 development
 
-##Team Members (Discord Usernames):
+## Team Members (Discord Usernames):
 - Arnav Nigam: @GodMagdon117#6014
 - Anika Sharma: @Anika17#2415
 - Teena Bhatia: @Teena#9111
